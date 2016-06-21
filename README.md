@@ -14,4 +14,4 @@ https://github.com/johnngugi/styles-conference
 4. Venue  
 5. Register  
 
-**Contributors** John Ngugi
+**Contributors** [John Ngugi](https://github.com/johnngugi)
